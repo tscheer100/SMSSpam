@@ -44,3 +44,7 @@ within the .json file.
     US cellular
     virgin
 ```
+#### What I learned from this project
+
+- Familiarized myself with using json to set variables
+- Familiarized myself with smtplib and how to use it to send SMS messages
