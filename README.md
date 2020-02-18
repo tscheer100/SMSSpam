@@ -26,7 +26,7 @@ to have access to your account".
  is a tutorial on how to do this.
 3) Change the variables in vars.json to correspond to the
 appropriate variables. Note, the file will not run properly
-if the "repeat" variable is greater than 500 as to prevent 
+if the "repeat" variable is greater than 150 as to prevent 
 over-spam.
 4) Run the script.
 
