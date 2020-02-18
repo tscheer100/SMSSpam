@@ -47,4 +47,4 @@ within the .json file.
 #### What I learned from this project
 
 - Familiarized myself with using json to set variables
-- Familiarized myself with smtplib and how to use it to send SMS messages
+- Became acquainted with smtplib and how to use it to send SMS messages
