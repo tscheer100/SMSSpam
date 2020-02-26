@@ -32,6 +32,8 @@ over-spam.
 
 Note: here are the supported carriers that can be changed
 within the .json file.
+
+Also note: This program prevents from sending over 500 messages, so set the variable to under 500.
 ```buildoutcfg
     att
     tmobile
