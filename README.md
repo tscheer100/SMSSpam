@@ -33,7 +33,6 @@ over-spam.
 Note: here are the supported carriers that can be changed
 within the .json file.
 
-Also note: This program prevents from sending over 500 messages, so set the variable to under 500.
 ```buildoutcfg
     att
     tmobile
@@ -46,6 +45,9 @@ Also note: This program prevents from sending over 500 messages, so set the vari
     US cellular
     virgin
 ```
+
+Also note: This program prevents from sending over 500 messages, so set the variable to under 500.
+
 #### What I learned from this project
 
 - Familiarized myself with using json to set variables
